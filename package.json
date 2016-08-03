@@ -1,0 +1,12 @@
+{
+  "name": "fizz-buzz-yak-shave",
+  "version": "1.0.0",
+  "description": "A very silly version of FizzBuzz from a very wonderful place, CascadiaFest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: YOLO\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Schoonmaker <michael.r.schoonmaker@gmail.com> (https://www.schoonology.com/)",
+  "license": "MIT"
+}
